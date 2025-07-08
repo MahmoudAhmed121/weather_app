@@ -8,7 +8,8 @@ A Flutter weather application that allows users to search for weather informatio
 - Search functionality for different cities
 - Weather details including temperature, humidity, wind speed, etc.
 - Internet connectivity monitoring
-- Clean architecture with separation of concerns
+
+## Screenshots
 
 <div align="center">
   <img src="./assets/images/pngs/screenshot_one.png" width="45%">
