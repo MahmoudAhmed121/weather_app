@@ -53,3 +53,7 @@ A Flutter weather application that allows users to search for weather informatio
 ## Dependencies
 
 See `pubspec.yaml` for the complete list of dependencies.
+![Screenshot_1752002402](https://github.com/user-attachment![Uploading Simulator Screenshot - iPhone 16 Pro Max - 2025-07-08 at 23.12.39.png…]()
+s/assets/0e58c7af-23b2-494a-ac28-3dedf4213460)
+
+
