@@ -10,6 +10,11 @@ A Flutter weather application that allows users to search for weather informatio
 - Internet connectivity monitoring
 - Clean architecture with separation of concerns
 
+<div align="center">
+  <img src="./assets/images/pngs/screenshot_one.png" width="45%">
+  <img src="./assets/images/pngs/screenshot_two.png" width="45%">
+</div>
+
 ## Project Structure
 
 ### Core
