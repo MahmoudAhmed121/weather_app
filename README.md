@@ -30,7 +30,6 @@ A Flutter weather application that allows users to search for weather informatio
 ### Features
 
 #### Auth
-- User authentication system
 - Splash screen implementation
 
 #### Home
